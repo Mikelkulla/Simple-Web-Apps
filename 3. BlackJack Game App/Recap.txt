@@ -1,0 +1,9 @@
+- array
+- objects
+- booleans
+- if else statements
+- comparison operators <= === >=
+- logical operator and (&&) or (||)
+- for loops
+- Math object (random, floor)
+- return statements
