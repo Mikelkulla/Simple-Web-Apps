@@ -1,0 +1,15 @@
+RECAP
+
+    - script tag in HTML
+    - variables
+    - numbers
+    - strings
+    - console.log()
+    - functions
+    - The DOM - document object model - how to use JS to change websites
+    - getDocumentById()
+    - innerText
+    - textContent
+
+Practice 
+    - Variables
